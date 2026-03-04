@@ -1,16 +1,32 @@
-## Hi there 👋
+![Arvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvinarun&show_icons=true&theme=radical)
+# Hi, I'm Arvin Arun Roy 👋
 
-<!--
-**arvinarun/arvinarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Science and tech enthusiast | Python learner | Fitness & strength-focused  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Interested in **science, programming, and creative projects**  
+- Passionate about **fitness, sports, and personal growth**  
+
+---
+
+## Skills & Tools
+
+- **Languages:** Python (beginner → intermediate), basics of HTML/CSS, SQL  
+- **Tools:** VS Code, Git & GitHub, basic digital tools for learning and projects  
+- **Interests:** Coding projects, small creative apps, productivity systems  
+
+---
+
+
+## GitHub Stats
+
+![Arvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvinarun&show_icons=true&theme=radical)
+
+---
+
+### Motto
+
+> Build quietly, grow consistently, achieve with impact
