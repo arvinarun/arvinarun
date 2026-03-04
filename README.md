@@ -23,10 +23,7 @@ Science and tech enthusiast | Python learner | Fitness & strength-focused
 
 ## GitHub Stats
 
-![Arvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvinarun&show_icons=true&theme=radical)
+![Arvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvinarun&show_icons=true&theme=dracula)
 
 ---
 
-### Motto
-
-> Build quietly, grow consistently, achieve with impact
