@@ -1,4 +1,3 @@
-![Arvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvinarun&show_icons=true&theme=radical)
 # Hi, I'm Arvin Arun Roy 👋
 
 Science and tech enthusiast | Python learner | Fitness & strength-focused  
@@ -16,14 +15,7 @@ Science and tech enthusiast | Python learner | Fitness & strength-focused
 
 - **Languages:** Python (beginner → intermediate), basics of HTML/CSS, SQL  
 - **Tools:** VS Code, Git & GitHub, basic digital tools for learning and projects  
-- **Interests:** Coding projects, small creative apps, productivity systems  
-
----
-
-
-## GitHub Stats
-
-![Arvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvinarun&show_icons=true&theme=dracula)
+- **Interests:** Coding projects, small creative apps, productivity systems
 
 ---
 
