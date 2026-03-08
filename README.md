@@ -1,6 +1,6 @@
 # Hi, I'm Arvin Arun Roy 👋
 
-Science and tech enthusiast | Python learner | Fitness & strength-focused  
+Science and tech enthusiast | Python, Html and Javascript learner
 
 ---
 
